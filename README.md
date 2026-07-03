@@ -1,14 +1,11 @@
-## Assignment 1 - Learning Git
+# Git Assignment 2
 
-For this assignment, I created a local Git repository and practiced the basic Git and GitHub workflow.
+## Summary
 
-First, I initialized my project folder using `git init`. Then, I created empty files named `foo`, `bar`, and `baz` using the `touch` command. I practiced staging files with `git add`, checking changes with `git status`, and saving my work using `git commit`.
+For this assignment, I continued practicing Git and GitHub by working with branches, commits, merging, cloning repositories, and managing project files, with a lot of trial and errors.
 
-I also practiced writing meaningful commit messages, correcting a commit message using `git commit --amend`, and reviewing my commit history using `git log` and `git log -p`.
+I created and edited HTML files, added an image to the website, updated project content, and practiced using Git commands such as `git clone`, `git pull`, `git merge`, `git log`, `git status`, `git branch`, `git add`, `git commit`, and `git push`.
 
-After that, I created a simple `index.html` file inside a `website` folder. I added the basic HTML structure, including a heading, a paragraph, and a page title. I also viewed the page in my browser and validated it using an HTML validator.
-
-Finally, I published my local repository to GitHub and confirmed that my commits appeared correctly online.
 
 For more information about Git, see the
 [official Git documentation](https://git-scm.com/).
